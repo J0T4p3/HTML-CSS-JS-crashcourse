@@ -1,0 +1,60 @@
+.principal {
+    background: #cccccc;
+    padding: 30px;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+h1 {
+    margin-left: 30px;
+}
+
+h2 {
+    padding-bottom: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+strong em {
+    color: #FF0000;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+}
+
+#texto {
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 30px;
+}
+
+#maior {
+    font-size: 20px;
+}
+
+#imagem {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.biblia {
+    size: 5%;
+}
+
+.itens {
+    font-style: italic
+}
+
+.passagens {
+    background: #FFFFFF;
+    padding: 15px;
+}
